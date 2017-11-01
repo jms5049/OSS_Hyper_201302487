@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/css-color-names/-/css-color-names-0.0.3.tgz#de0cef16f4d8aa8222a320d5b6d7e9bbada7b9f6",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/css-color-names/-/css-color-names-0.0.3.tgz",
+    "hash": "de0cef16f4d8aa8222a320d5b6d7e9bbada7b9f6",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "de0cef16f4d8aa8222a320d5b6d7e9bbada7b9f6"
+}

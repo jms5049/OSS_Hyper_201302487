@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyperpower/-/hyperpower-0.2.2.tgz#65670bf5c3ba2002aa851161037d754adcbfe88e",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyperpower/-/hyperpower-0.2.2.tgz",
+    "hash": "65670bf5c3ba2002aa851161037d754adcbfe88e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "65670bf5c3ba2002aa851161037d754adcbfe88e"
+}
